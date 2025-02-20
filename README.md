@@ -15,7 +15,7 @@ Installation & Setup
 To get the project up and running locally, follow these steps:
 
 1. Clone the Repository
-git clone https://github.com/zahraaAsgari/calculator-app.git
+git clone https://github.com/zahraaAsgari/react-calculator.git
 cd calculator-app
 2. Install Dependencies
 Make sure you have Node.js and npm installed. If not, download them from here.
@@ -38,7 +38,7 @@ App Screenshot
 
 Contributing
 Fork this repository.
-Clone your fork: git clone https://github.com/your-username/calculator-app.git
+Clone your fork: git clone https://github.com/zahraaAsgari/react-calculator.git
 Create a new branch: git checkout -b feature/your-feature
 Make your changes and commit them: git commit -m 'Add new feature'
 Push to your fork: git push origin feature/your-feature
